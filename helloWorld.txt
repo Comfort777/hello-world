@@ -1,0 +1,28 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+</head>
+<body>
+    <div>
+        <!--unordered list -->
+        <ul>
+          <!--list items -->
+
+        <li> <a href="./index.html">Home</a> </li>
+            <li> <a href="http://google.com">About</a> </li>
+            <li> <a href="mailto:brenton@hey.com">Contact Us </li>
+
+        </ul>
+    </div>
+    <p>
+        Hello everyone! My name is Comfort.
+    </p>
+    <p>
+        I'm having fun learning html.
+    </p>
+    <!-- image source --->
+    <img width="100" src="https://ca.slack-edge.com/TVCR6UY14-UV3T9GSKV-g5f3ce0f9e86-72"
+    alt="description here" />
+<tr></tr>
+</body>
+</html>
